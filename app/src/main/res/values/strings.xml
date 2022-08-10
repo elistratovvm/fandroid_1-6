@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="number_text">0</string>
+    <string name="button_toast_text">Toast</string>
+    <string name="button_count_text">Count</string>
+    <string name="button_random_text">Random</string>
+    <string name="random_heading">Это случайное число между 0 и %1d.</string>
+</resources>
